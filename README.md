@@ -43,3 +43,8 @@ The modified vresions of [AirSim](https://github.com/microsoft/AirSim), [Fast-Pl
   catkin_make
 ```
 
+## Run Testing
+```
+  cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
+  ./run_all.sh
+```  
