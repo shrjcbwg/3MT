@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="3MT" type="save_pcd" name="save_pcd"
+    output="screen" >
+  </node>
+</launch>

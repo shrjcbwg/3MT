@@ -1,0 +1,4 @@
+<launch>
+  <node name="read_pcd" pkg="3MT" type="read_pcd" output="screen">
+  </node>
+</launch>
