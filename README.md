@@ -35,3 +35,11 @@ The modified vresions of [AirSim](https://github.com/microsoft/AirSim), [Fast-Pl
   catkin_make
 ```
 
+### Build 3MT
+```
+  cd ${YOUR_WORKSPACE_PATH}/src
+  git clone https://github.com/shrjcbwg/3MT.git
+  cd ../
+  catkin_make
+```
+
