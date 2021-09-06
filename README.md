@@ -45,7 +45,14 @@ The modified vresions of [AirSim](https://github.com/microsoft/AirSim), [Fast-Pl
 
 ## Run Testing
 Before runing testing, you need to download and run an [AirSim_Binary](https://github.com/microsoft/AirSim/releases/tag/v1.5.0-linux). e.g. AirSimNH
+
+### Testing with Fast-Planner
 ```
   cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
-  ./run_all.sh
+  ./run_all_fast.sh
+```  
+### Testing with Ego-Planner
+```
+  cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
+  ./run_all_ego.sh
 ```  
