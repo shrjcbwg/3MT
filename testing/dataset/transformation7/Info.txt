@@ -1,0 +1,138 @@
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase1’: File exists
+******************Start a testing******************
+test_id: 1 , test_name: testcase1
+drone_name: Drone1
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase2’: File exists
+******************Start a testing******************
+test_id: 2 , test_name: testcase2
+drone_name: Drone2
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase3’: File exists
+******************Start a testing******************
+test_id: 3 , test_name: testcase3
+drone_name: Drone3
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase4’: File exists
+******************Start a testing******************
+test_id: 4 , test_name: testcase4
+drone_name: Drone4
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase5’: File exists
+******************Start a testing******************
+test_id: 5 , test_name: testcase5
+drone_name: Drone5
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase6’: File exists
+******************Start a testing******************
+test_id: 6 , test_name: testcase6
+drone_name: Drone6
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+Reached the Goal!
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase7’: File exists
+******************Start a testing******************
+test_id: 7 , test_name: testcase7
+drone_name: Drone7
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase8’: File exists
+******************Start a testing******************
+test_id: 8 , test_name: testcase8
+drone_name: Drone8
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase9’: File exists
+******************Start a testing******************
+test_id: 9 , test_name: testcase9
+drone_name: Drone9
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+mkdir: cannot create directory ‘/home/rui/Desktop/data/transformation7/testcase10’: File exists
+******************Start a testing******************
+test_id: 10 , test_name: testcase10
+drone_name: Drone10
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+taking off...
+sh: 7: kill: No such process
+
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
