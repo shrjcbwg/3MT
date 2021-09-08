@@ -26,7 +26,7 @@ The modified vresions of [AirSim](https://github.com/microsoft/AirSim), [Fast-Pl
   catkin build -DCMAKE_C_COMPILER=gcc-8 -DCMAKE_CXX_COMPILER=g++-8
 ```
 
-### Build AirSim
+### Build Fast-Planner
 
 ```
   cd ${YOUR_WORKSPACE_PATH}/src
@@ -53,10 +53,10 @@ Before runing testing, you need to download and run an [AirSim_Binary](https://g
   #Open a new terminal
   source ~/test_ws/devel/setup.bash && roslaunch 3MT run_testing_node.launch
 ```  
-### Testing with Ego-Planner
+<!-- ### Testing with Ego-Planner
 ```
   cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
   ./run_all_ego.sh
   #Open a new terminal
   source ~/test_ws/devel/setup.bash && roslaunch 3MT run_testing_node.launch
-```  
+```   -->
