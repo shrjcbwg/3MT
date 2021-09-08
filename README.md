@@ -50,9 +50,13 @@ Before runing testing, you need to download and run an [AirSim_Binary](https://g
 ```
   cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
   ./run_all_fast.sh
+  #Open a new terminal
+  source ~/test_ws/devel/setup.bash && roslaunch 3MT run_testing_node.launch
 ```  
 ### Testing with Ego-Planner
 ```
   cd ${YOUR_WORKSPACE_PATH}/src/3MT/testing
   ./run_all_ego.sh
+  #Open a new terminal
+  source ~/test_ws/devel/setup.bash && roslaunch 3MT run_testing_node.launch
 ```  
