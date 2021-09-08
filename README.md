@@ -15,8 +15,7 @@ The modified vresions of [AirSim](https://github.com/microsoft/AirSim), [Fast-Pl
 
 ```
   sudo apt-get install gcc-8 g++-8
-  sudo apt-get install ros-melodic-tf2-sensor-msgs
-  ros-melodic-tf2-geometry-msgs ros-melodic-mavros*
+  sudo apt-get install ros-melodic-tf2-sensor-msgs ros-melodic-tf2-geometry-msgs ros-melodic-mavros* gcc-8 g++-8
   git clone https://github.com/shrjcbwg/AirSim.git
   cd AirSim
   ./setup.sh
