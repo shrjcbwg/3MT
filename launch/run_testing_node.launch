@@ -1,0 +1,16 @@
+<launch>
+    <node name="testing_node" pkg="3MT" type="testing_node" output="screen">
+        <param name="reached_thresh_xyz" value="0.1" />
+        <param name="reached_yaw_degrees"  value="5.0" />
+
+        <!-- Yor nedd to change the path to Absolute Path -->
+        <param name="odom_dataset_path" value="$HOME/test_ws/src/3MT/testing/dataset/data_odom.txt"/>
+        <param name="traj_dataset_path" value="$HOME/test_ws/src/3MT/testing/dataset/data_cmd.txt"/>
+        <param name="map_dataset_path"  value="$HOME/test_ws/src/3MT/testing/dataset/data_map.pcd"/>
+
+        <remap from="position_cmd" to="/planning/pos_cmd"/>
+        <remap from="traj_coodi" to="/airsim_node_fast/drone_1/odom_local_ned"/>
+        <remap from="map" to="/sdf_map/occupancy_inflate"/>
+    </node>
+
+</launch>
